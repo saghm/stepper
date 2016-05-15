@@ -1,0 +1,10 @@
+[package]
+name = "stepper"
+version = "0.1.0"
+authors = ["Saghm Rossi <saghmrossi@gmail.com>"]
+license = "MIT"
+description = "Provides range iterators that step by values other than one (for use until `std::iter::StepBy` is stable)"
+repository = "https://github.com/saghm/stepper"
+readme = "README.md"
+
+[dependencies]
